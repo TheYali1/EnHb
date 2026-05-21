@@ -1,5 +1,12 @@
 # EnHb
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Supported-0078D6?logo=windows&logoColor=white)
+![Keyboard Hotkeys](https://img.shields.io/badge/Hotkeys-Ctrl%2BShift%2BH%20%7C%20Ctrl%2BShift%2BE-purple)
+![Language](https://img.shields.io/badge/Language-Hebrew%20%26%20English-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 **כתבת הכל באנגלית אבל התכוונת לכתוב בעברית?**  
 תשתמש ב**EnHb** בשביל להפוך טקסט אנגלי לטקסט עברי הפוך ומתוקן וגם להפך!
 
