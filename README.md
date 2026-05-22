@@ -1,8 +1,8 @@
 # EnHb
 
-[![Release](https://img.shields.io/github/v/release/TheYali1/EnHb?style=for-the-badge)](https://github.com/TheYali1/BatEx/releases)
-[![Stars](https://img.shields.io/github/stars/TheYali1/EnHb?style=for-the-badge)](https://github.com/TheYali1/BatEx/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/TheYali1/EnHb/total?style=for-the-badge)](https://github.com/TheYali1/BatEx/releases)
+[![Release](https://img.shields.io/github/v/release/TheYali1/EnHb?style=for-the-badge)](https://github.com/TheYali1/EnHb/releases)
+[![Stars](https://img.shields.io/github/stars/TheYali1/EnHb?style=for-the-badge)](https://github.com/TheYali1/EnHb/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/TheYali1/EnHb/total?style=for-the-badge)](https://github.com/TheYali1/EnHb/releases)
 ![Language](https://img.shields.io/badge/Language-Hebrew%20%26%20English-green?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)    
